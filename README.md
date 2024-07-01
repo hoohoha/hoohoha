@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO&fontSize=90)
 
-
-🌱 I’m currently learning <img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white"/>
-<!--## Hi 👋
+🌱Studying🌱
+ <img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white"/>
+ 
+ 
+<!--## Hi 👋 I’m currently learning
 **hoohoha/hoohoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
