@@ -1,6 +1,6 @@
 ## Hi 👋
 
-🌱 I’m currently learning `JAVA`
+🌱 I’m currently learning <img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white"/>
 <!--
 **hoohoha/hoohoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
