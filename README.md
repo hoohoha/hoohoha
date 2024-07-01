@@ -3,7 +3,8 @@
 🌱Studying🌱
 
  <img src="https://img.shields.io/badge/Java-0064CD?style=flat-square&logo=Java&logoColor=white"/>
- 
+<img src="https://img.shields.io/badge/Python-0064CD?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-0064CD?style=flat-square&logo=Java&logoColor=white"/>
  
 <!--## Hi 👋 I’m currently learning
 **hoohoha/hoohoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
